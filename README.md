@@ -8,7 +8,6 @@ This repository showcases a powerful and visually appealing Sales Performance Da
 <br>
 # About Datasets:
 1. Sales Transactions Data
-<br>
 Transaction ID: Unique identifier for each transaction.
 <br>
 Store ID: Identifier for the store where the sale occurred.
@@ -31,8 +30,9 @@ Employee ID: ID of the employee handling the sale.
 <br>
 Transaction Type: Payment method used (e.g., Cash).
 <br>
-3. Employee Performance Data
-   <br>
+
+2. Employee Performance Data
+<br>
 Employee ID: Unique identifier for each employee.
 <br>
 Date: Date of the performance record.
@@ -43,7 +43,8 @@ Total Units Sold: Total number of units sold by the employee.
 <br>
 Region: Geographical region where the employee worked
 <br>
-5. Regional Market Data
+
+3. Regional Market Data
 <br>
 Region: Geographical region of sales.
 <br>
