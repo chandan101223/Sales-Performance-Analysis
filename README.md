@@ -69,6 +69,29 @@ In the Model tab, the relationships between the 3 tables in the data set are mod
 <br>
 ![Screenshot 2024-09-12 142747](https://github.com/user-attachments/assets/cbe14a87-3d0e-41e5-8e26-a9a0f5b7bb67)
 
+ # Overview:-
+ <br>
+ This repository showcases a powerful and visually appealing Sales Performance Dashboard built using Power BI. 
+ The dashboard provides a comprehensive view of key sales metrics, allowing users to gain valuable insights and make data- 
+ driven decisions.
+
+ # Feature:-
+ <br>
+ # Interactive Visualizations: 
+ <br>
+ The dashboard features interactive visualizations that enable users to explore sales data from various perspectives, such 
+ as product categories, regions, and time periods.
+ # Key Performance Indicators (KPIs): 
+ <br>
+ Critical KPIs, including total revenue,Total Sales,Top Month sale are prominently displayed, providing a quick overview of 
+ the Sales performance.
+# Dynamic Filtering:
+ <br>
+ Dynamic filtering capabilities allow users to apply filters and slicers to focus on specific data segments, enabling 
+ targeted analysis and decision-making.
+# Responsive Design:
+<br>
+ The dashboard is designed to be responsive, ensuring optimal viewing experience across different devices and screen sizes.
 
 
 
