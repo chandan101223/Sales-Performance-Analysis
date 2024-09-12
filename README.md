@@ -5,7 +5,7 @@ Tools:- Power BI
 <br>
 # About Datasets:-
 <br>
-1. Sales Transactions Data
+1. Sales Transactions Data:-
 <br>
 Transaction ID:  Unique identifier for each transaction.
 <br>
@@ -51,21 +51,22 @@ Total Sales Amount:  Total sales amount for the region.
 <br>
 Total Units Sold:  Total number of units sold in the region.
 <br>
-Importing Data:
+# Importing Data:
 <br>
 First thing done was to import the data from the source file.
 <br>
 ![Screenshot 2024-09-12 135223](https://github.com/user-attachments/assets/57712b62-0905-4f07-9183-21bbd6442741)
 <br>
-Transform Data:
+# Transform Data:
 <br>
 TO check Data Format and Cleaning Data like-Empty Cell,Wrong Value,Duplicate Value,Wrong format and Error.
 <br>
 ![Screenshot 2024-09-12 135431](https://github.com/user-attachments/assets/555b6f7f-60a9-4591-8152-c122e011eaa7)
 <br>
-Modelling:
+# Modelling:
 <br>
-In the Model tab, the relationships between the 3 tables in the data set are modeled
+In the Model tab, the relationships between the 3 tables in the data set are modeled.
+<br>
 ![Screenshot 2024-09-12 142747](https://github.com/user-attachments/assets/cbe14a87-3d0e-41e5-8e26-a9a0f5b7bb67)
 
 
