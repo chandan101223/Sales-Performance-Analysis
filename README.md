@@ -1,12 +1,10 @@
-# Sales-Performance-Analysis
+# Sales-Performance-Analysis:-
 This dataset about sales performance within two years in four different Regions and My Mission was to provides a clear overview of sales performance, trends, and key metrics and visualize trends across various regions.
 <br>
 Tools:- Power BI
-<BR>
-# Overview:
-This repository showcases a powerful and visually appealing Sales Performance Dashboard built using Power BI. The dashboard provides a comprehensive view of key sales metrics, allowing users to gain valuable insights and make data-driven decisions.
 <br>
-# About Datasets:
+# About Datasets:-
+<br>
 1. Sales Transactions Data
 <br>
 Transaction ID:  Unique identifier for each transaction.
@@ -31,9 +29,7 @@ Employee ID:  ID of the employee handling the sale.
 <br>
 Transaction Type:  Payment method used (e.g., Cash).
 <br>
-
-
-2. Employee Performance Data
+2. Employee Performance Data:-
 <br>
 Employee ID:  Unique identifier for each employee.
 <br>
@@ -45,8 +41,7 @@ Total Units Sold:  Total number of units sold by the employee.
 <br>
 Region:  Geographical region where the employee worked
 <br>
-
-3. Regional Market Data
+3. Regional Market Data:-
 <br>
 Region:  Geographical region of sales.
 <br>
@@ -55,3 +50,24 @@ Date:  Date of the market data record.
 Total Sales Amount:  Total sales amount for the region.
 <br>
 Total Units Sold:  Total number of units sold in the region.
+<br>
+Importing Data:
+<br>
+First thing done was to import the data from the source file.
+<br>
+![Screenshot 2024-09-12 135223](https://github.com/user-attachments/assets/57712b62-0905-4f07-9183-21bbd6442741)
+<br>
+Transform Data:
+<br>
+TO check Data Format and Cleaning Data like-Empty Cell,Wrong Value,Duplicate Value,Wrong format and Error.
+<br>
+![Screenshot 2024-09-12 135431](https://github.com/user-attachments/assets/555b6f7f-60a9-4591-8152-c122e011eaa7)
+<br>
+Modelling:
+<br>
+In the Model tab, the relationships between the 3 tables in the data set are modeled
+![Screenshot 2024-09-12 142747](https://github.com/user-attachments/assets/cbe14a87-3d0e-41e5-8e26-a9a0f5b7bb67)
+
+
+
+
