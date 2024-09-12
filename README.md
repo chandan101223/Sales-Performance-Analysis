@@ -94,6 +94,15 @@ In the Model tab, the relationships between the 3 tables in the data set are mod
 4.Responsive Design:
  <br>
  The dashboard is designed to be responsive, ensuring optimal viewing experience across different devices and screen sizes.
+ <br>
+
+ # Visulization of Datasets:-
+ <br>
+ ![Screenshot 2024-09-09 131142](https://github.com/user-attachments/assets/6669d2c1-2037-4ca2-a5dc-d90bf2e627f9).
+ <br>
+ ![Screenshot 2024-09-09 131156](https://github.com/user-attachments/assets/ee1413c3-5ae1-4a34-9f49-3095fae6523f).
+
+
 
 
 
