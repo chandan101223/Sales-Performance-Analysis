@@ -77,20 +77,22 @@ In the Model tab, the relationships between the 3 tables in the data set are mod
 
  # Feature:-
  <br>
- # Interactive Visualizations: 
+ 1.Interactive Visualizations: 
  <br>
  The dashboard features interactive visualizations that enable users to explore sales data from various perspectives, such 
  as product categories, regions, and time periods.
- # Key Performance Indicators (KPIs): 
  <br>
- Critical KPIs, including total revenue,Total Sales,Top Month sale are prominently displayed, providing a quick overview of 
- the Sales performance.
-# Dynamic Filtering:
+ 2.Key Performance Indicators (KPIs): 
+ <br>
+ Critical KPIs, including total revenue,Total Sales,Top Month sale are prominently displayed, providing a quick overview of  the Sales performance.
+ <br>
+3.Dynamic Filtering:
  <br>
  Dynamic filtering capabilities allow users to apply filters and slicers to focus on specific data segments, enabling 
  targeted analysis and decision-making.
-# Responsive Design:
-<br>
+ <br>
+4.Responsive Design:
+ <br>
  The dashboard is designed to be responsive, ensuring optimal viewing experience across different devices and screen sizes.
 
 
